@@ -1,2 +1,3 @@
 # Lordi-website
-Website about Lordi
+This is a website about Lordi.
+
