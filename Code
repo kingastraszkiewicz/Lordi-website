@@ -3,21 +3,20 @@
 	<head>
 		<title> LORDI REIGN </title>
         
-        <style>
+        	<style>
 
-			body {
-            	background-color: black;
-            }
+		body {
+        	    	background-color: black;
+            	}
 
-			.crimson-text {
+		.crimson-text {
     			color: crimson;
     		}
     
     		.center {
-  				display: block;
-  				margin-left: auto;
-  				margin-right: auto;
-   
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
     		}
     
     		.topnav a {
@@ -39,41 +38,42 @@
     		}
     
     		.fire-brick-text {
-    			color: FireBrick;
+   			color: FireBrick;
     		}
     
     		.blue {
     			color: MediumSlateBlue;
     		}
             
-            .font {
-            	font-size: 18px;
-            }
+            	.font {
+	            	font-size: 18px;
+            	}
     
     		.clearfix {
-  				overflow: auto;
-			}
+			overflow: auto;
+		}
     
     		.column {
-  				float: left;
-  				width: 50%;
-			}
+			float: left;
+			width: 50%;
+		}
 
-			.row:after {
-  				content: "";
-  				display: table;
-  				clear: both;
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
     		}
     
-			.margin-left {
-            	margin-left: 300px;
-            }
-            
-            .black-border {
-            	border-color: black;
-                border-width: 8px;
-                border-style: solid;
-            }
+		.margin-left {
+	            	margin-left: 300px;
+        	}
+
+            	.black-border {
+            		border-color: black;
+                	border-width: 8px;
+               		border-style: solid;
+            	}
+    
     
     		[type='radio'] {
     			margin: 20px 10px 20px 10px;
@@ -87,40 +87,39 @@
 		<main>
         
         	<div class="topnav">
-  				<a class="active" href="#video">Video</a>
+  			<a class="active" href="#video">Video</a>
         		<a href="#members-header">Members</a>
-  				<a href="#discography">Discography</a>
-  				<a href="#survey">Survey</a>
-            	<a href="https://www.lordi-webshop.com/">Shop</a>
-			</div> 
+  			<a href="#discography">Discography</a>
+  			<a href="#survey">Survey</a>
+  	          	<a href="https://www.lordi-webshop.com/">Shop</a>
+		</div> 
         
 
         
         
-			<img src="https://www.spirit-of-metal.com/les%20goupes/L/Lordi/pics/1590022_logo.jpg" alt="Lordi logo" width="400px" class="center">
+		<img src="https://www.spirit-of-metal.com/les%20goupes/L/Lordi/pics/1590022_logo.jpg" alt="Lordi logo" width="400px" class="center">
 			
-            <center> <h1 class="crimson-text"> THE LORDI ALMIGHTY </h1> </center>
+	        <center> <h1 class="crimson-text"> THE LORDI ALMIGHTY </h1> </center>
 
-			<img src="https://biletyna.pl/file/get/id/47462" alt="The band" width="900px" class="center">
+		<img src="https://biletyna.pl/file/get/id/47462" alt="The band" width="900px" class="center">
             
-            <center> <a href="https://www.lordi.fi/">Link  to the official website!</a> </center>
-            <br>
-            <br>
+	        <center> <a href="https://www.lordi.fi/">Link  to the official website!</a> </center>
+         	<br>
+            	<br>
             
-			<p class="fire-brick-text font"> This is a website dedicated to one of the most amazing and creative bands in the world! Lordi is a Finnish hard rock/heavy metal band, formed in 1992 by the band's lead singer, songwriter and costume maker, Mr Lordi. In addition to their melodic metal music, Lordi are also known for wearing monster masks and using horror elements with pyrotechnics during concerts and music videos. The band rose to fame in 2002 with their hit single "Would You Love a Monsterman?", and won the Eurovision Song Contest 2006 with their song "Hard Rock Hallelujah". </p>
-            <br>
+		<p class="fire-brick-text font"> This is a website dedicated to one of the most amazing and creative bands in the world! Lordi is a Finnish hard rock/heavy metal band, formed in 1992 by the band's lead singer, songwriter and costume maker, Mr Lordi. In addition to their melodic metal music, Lordi are also known for wearing monster masks and using horror elements with pyrotechnics during concerts and music videos. The band rose to fame in 2002 with their hit single "Would You Love a Monsterman?", and won the Eurovision Song Contest 2006 with their song "Hard Rock Hallelujah". </p>
+            	<br>
             
-            <center> <h3 class="crimson-text"> And here's the song! </h3> </center>
+            	<center> <h3 class="crimson-text"> And here's the song! </h3> </center>
             
- 			<iframe width="800" height="500" class="center" id="video"
-			src="https://www.youtube.com/embed/-6Xl9tBWt54">
-			</iframe> 
-            <br>
-            <br>
-            <br>
+ 		<iframe width="800" height="500" class="center" id="video" src="https://www.youtube.com/embed/-6Xl9tBWt54">
+		</iframe> 
+            	<br>
+    	        <br>
+        	<br>
 
 
-			<center> <h2 id="members-header" class="crimson-text"> MEMBERS </h2> </center>
+		<center> <h2 id="members-header" class="crimson-text"> MEMBERS </h2> </center>
             
         	<img src="https://cdn.antenne.de/thumbs/images/galleries/383300/118654_lordi_bday_sony.011c6919.jpg" alt="Mr Lordi" width="400px" length="500px" class="float clearfix">
             
@@ -128,13 +127,13 @@
         	<h3 class="fire-brick-text"> <u> Mr Lordi </u> </h3>
          
         	<p class="fire-brick-text"> Tomi Petteri Putaansuu is a Finnish musician, businessman, special effect make-up artist, songwriter, actor, painter, comics artist and graphic designer. Mr Lordi is best known as the lead vocalist of Lordi. In the band he is responsible for songwriting and creating all the masks, costumes, graphics and stage props. <br>
-			<br>
+		<br>
 Mr Lordi has written songs and painted cover artworks for many bands and artists like Rotten Sound, Jope Ruonansuu, Domination Black, Grandevils and Agnes Pihlava. He has also had a few art exhibitions in Finland. <br>
-			<br>
+		<br>
 In end of 80's Mr Lordi started to make horror movies with friends. As a movie director and effects designer, he, with the young movie-makers Pete Riski (Lordi's future music video director), Petri Kangas, Kimmo Valtanen (to-be Sony BMG Finland CEO) and Tomi Yli-Suvanto received many awards and represented Finland at international film festivals. Mr Lordi has also worked as a storyboard artist for Finnish movie producers and directed many Finnish music videos.<br>
-			<br>
+		<br>
 His character has been described as the names "The Hulk from Hell", "The Most Fearsome Khan of All", "The Biomechanical Man" and "The Unholy Overlord of All Tremors". His most known weapons are his biomechanic armour and an axe. <br>
-			<br>
+		<br>
 The fictional history of Mr Lordi tells that his father was a Demon of the South named the Duke of the Demons and his mother a Troll of the North named Angel. The Demons invaded Lapland and raped the Trolls. As a bastard son of both, Mr Lordi received the supernatural powers of them and during centuries appeared as several historical figures, such as Genghis Khan, Attila the hun, Vlad the Impaler and Ivan the terrible. After defeating the Demons and Trolls, as the Lord of Lapland, he rode in a sleigh, given to him by Puuhkalakki, pulled by flying zombie reindeer. </p>
 
          
@@ -143,32 +142,32 @@ The fictional history of Mr Lordi tells that his father was a Demon of the South
         	<h3 class="fire-brick-text"> <u> Amen </u> </h3>
          
         	<p class="fire-brick-text"> Jussi Antero Sydänmaa is a Finnish guitarist, better known by his stage name Amen or Finnish nickname Eiska. He is one of the founding members of Lordi and is still playing in the band.<br>
-			<br>
+		<br>
 He graduated as an Information Technology engineer in 2001 and has been making the website of Lordi. Amen plays Schechter guitars (specifically the Solo II Custom and the Hellraiser Solo II). The municipality of Mäntsälä granted Amen with statue named "Hard Rock Stone" on 26 June 2006.<br>
-			<br>
+		<br>
 Amen has been featured as a special guest on Markus Striegls concert in 2011 and Doro Pesch's concert in 2014.<br>
-			<br>
+		<br>
 Amen has also recorded guitar riffs which were used by Ari Pulkkinen to create the soundtrack for PC game Shadowgrounds. His acoustic guitar solos "Amen's Lament To Ra" and "Amen's Lament to Ra ll" were included in Lordi's albums Babez for Breakfast and Scare Force One. <br>
-			<br>
+		<br>
 Amen's character in Lordi is an ancient mummy avenger, the god of gods. Most known names of Amen's character are The Ruler of the Anubis Dynasty and The Mummified One, but also The Severed One, The Buried Living Dead, The Unstoppable Avenger, The Ancient Assassin and The "So Be It, It Shall Be Done".<br>
-			<br>
+		<br>
 The fictional history of Amen tells that he was born in Karnath, Egypt. He was a ruler of the sixth dynasty of Egypt and an assassin who had several wives and many children. He rose to power in 2184 before our time and was killed by rebellious subordinates after having failed in one of his own attempts of assassination. He got two deep cuts into his face which destroyed his look and made him reveal his teeth forever. After death Amen was mummified and couple thousands years later he was woken up to play in Lordi. </p>
-			<br>
-			<br>
-			<br>
+		<br>
+		<br>
+		<br>
         	<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
         	<br>
-			<br>
-			<br>
-			<br>
-			<br>
+		<br>
+		<br>
+		<br>
+		<br>
 
-			<img src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/79381452_957611267967448_8227698673590167385_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=-MJ9tFF2i0oAX__BGJB&oh=5e6fc9aca9fb44e290fff52c8bad9f11&oe=5EA133BC" alt="Mana" width="400px" length="450px" class="float clearfix">
+		<img src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/79381452_957611267967448_8227698673590167385_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=-MJ9tFF2i0oAX__BGJB&oh=5e6fc9aca9fb44e290fff52c8bad9f11&oe=5EA133BC" alt="Mana" width="400px" length="450px" class="float clearfix">
         
         	<h3 class="fire-brick-text"> <u> Mana </u> </h3>
            
@@ -178,7 +177,7 @@ The fictional history of Amen tells that he was born in Karnath, Egypt. He was a
 Mana uses Tama drums and his own Balbex signature sticks. He is a fan of Kiss, Ian Paice, Cozy Powell and Vinny Appice. He has produced songs and albums for various Finnish bands. <br>
 	        <br>
 He is also known as The Bugjaws, The Minister of Sinister, Shriek Priest, The Pale Pastor, Insectoman and The Lord of the Cutterflies. <br>
-    	    <br>
+		<br>
         
 The fictional history of Mana tells that he is believed to be the pastor of the dead, operating in the passageway between the land of the living and the dead before they finally pass on to the other side. Some old sanscripts claim that in fact he once was human, and worked as a roaming pastor in scandinavia in the 1100´s. He was excommunicated from the church due to his unusually cruel methods for disciplining sinners. <br>
 	        <br>
@@ -187,132 +186,128 @@ He was said to be a tall, skinny man, who did not speak a word. He judged the pe
 Mana was said to travel in the form of a sworm of black and green flies, and some wooden drawings of him portray him with jaws resembling mandibles of an insect, very much as flies have. </p>
 	        <br>
 
-    	    <img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-1/71301423_2484087318310939_9043543336719220736_n.jpg?_nc_cat=100&_nc_sid=dbb9e7&_nc_oc=AQluTCyl5-J1xmqDURzlbrGvaDuMdzVCgRgFvIqFMCa-MnWI2BqomeXbooTMPGaInQA&_nc_ht=scontent-waw1-1.xx&oh=ba8c469af73260d24a13bdda169e0dcd&oe=5E9E5F6F" alt="Hella" width="400px" class="float clearfix">
+    	   	<img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-1/71301423_2484087318310939_9043543336719220736_n.jpg?_nc_cat=100&_nc_sid=dbb9e7&_nc_oc=AQluTCyl5-J1xmqDURzlbrGvaDuMdzVCgRgFvIqFMCa-MnWI2BqomeXbooTMPGaInQA&_nc_ht=scontent-waw1-1.xx&oh=ba8c469af73260d24a13bdda169e0dcd&oe=5E9E5F6F" alt="Hella" width="400px" class="float clearfix">
            
-        	<h3 class="fire-brick-text"> <u> Hella </u> </h3>
+		<h3 class="fire-brick-text"> <u> Hella </u> </h3>
          
          	<p class="fire-brick-text"> Henna-Riikka Paakkola is a Finnish keyboardist and singer. She is best known by her stage name Hella and is the current keyboardist of Lordi. Hella uses Korg keyboards. She claims to be a big melodic metal fan, and her favorite bands include Behemoth and Children of Bodom. In January 2014, Hella recorded a song with a Finnish band called Postikortteja Helvetistä. <br>
          	<br>
 In early 2015, Hella announced that she was pregnant. The band's guitarist, Amen, later confirmed that Hella would be replaced for the summer festivals. In summer 2015, Hella's temporary replacement, Nalle, was seen for the first time at Rovaniemi. <br>
-		 	<br>
+	 	<br>
 She is also known as Plastic Chick, Scarbie, HellToy, Burned'n'Buried, Forsaken Doll, Sindie. The fictional history of Hella tells that she is one of the victims of the notorious madman just known as Ruiz, and is the twisted result of his insane experiments . <br>
-		 	<br>
+	 	<br>
 Hella was captured and held in captivity for months by Ruiz, until eventually she was brutally cast in plastic and rubber. Ruiz´s sick compulsion was to try to build a real living life-size doll for his own amusement. A dozen dead bodies of young girls were found in his cellar at the time of his arrest in the summer of 1985. They were all severely burned when they were dipped in hot plastic, their joints were punctured, and bones were broken by handmade maximum sized metallic bolts and screws. Some of the victims had their scalps cut off and replaced by blond wigs. Their eyes removed and replaced by poorly painted glass eyes as well. These operations ultimately lead to the victims deaths. <br>
-		 	<br>
+	 	<br>
 
 Plenty of physical evidence remained, leading to the conclusion that there was a 13th victim. But her body was never found. This undeniably disturbing evidence, one eyeball and a scalp, was found to belong to one mysterious girl who miraculously was able to not only stay alive, but also managed to escape after her operations. This one sole survivor, ”living doll” is known as Hella. </p>
-			<br>
+		<br>
             
-		 	<img src="https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/e35/70431160_175734833472105_4496506920185958455_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=yvpAgdHqJfMAX_SN5ks&oh=19b1b881a23fc007d8725c372563174f&oe=5EA3202F" alt="Hiisi" width="400px" class="float clearfix">
+	 	<img src="https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/e35/70431160_175734833472105_4496506920185958455_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=yvpAgdHqJfMAX_SN5ks&oh=19b1b881a23fc007d8725c372563174f&oe=5EA3202F" alt="Hiisi" width="400px" class="float clearfix">
            
         	<h3 class="fire-brick-text"> <u> Hiisi </u> </h3>
             
-            <p class="fire-brick-text"> Hiisi is the newest member of Lordi and that is why there is not a lot of information about him. All we know is that he is a Finnish bass-player, but also his story, which tells us that he is the reptilian troll from the arctic. He's all set to slither into your ear canals with his bass and create sonic mayhem. </p>
-            <br>
-			<br>
-			<br>
+	        <p class="fire-brick-text"> Hiisi is the newest member of Lordi and that is why there is not a lot of information about him. All we know is that he is a Finnish bass-player, but also his story, which tells us that he is the reptilian troll from the arctic. He's all set to slither into your ear canals with his bass and create sonic mayhem. </p>
         	<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
+		<br>
+		<br>
         	<br>
-			<br>
-			<br>
-			<br>
-			<br>
-            <br>
-			<br>
-            <br>
-            <br>
-			<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+        	<br>
+		<br>
+		<br>
+		<br>
+		<br>
+            	<br>
+		<br>
+            	<br>
+            	<br>
+		<br>
 
 			
-            <div class="row">
-  				<div class="column">
-                	<h2 id="discography" class="crimson-text margin-left"> DISCOGRAPHY </h2>
-           	
-            		<ol class="fire-brick-text margin-left">
+	        <div class="row">
+  			<div class="column">
+                		<h2 id="discography" class="crimson-text margin-left"> DISCOGRAPHY </h2>
+           	       		<ol class="fire-brick-text margin-left">
            				<li> <i> Get Heavy (2002) </i> </li> <br>
-                		<li> <i> The Monsterican Dream (2004) </i> </li> <br>
-                		<li> <i> The Arockalypse (2006) </i> </li> <br>
-                		<li> <i> Deadache (2008) </i> </li> <br>
-                		<li> <i> Babez for Breakfast (2010) </i> </li> <br>
-                		<li> <i> To Beast or Not to Beast (2013) </i> </li> <br>
-                		<li> <i> Scare Force One (2014) </i> </li> <br>
-                		<li> <i> Monstereophonic (2016) </i> </li> <br>
-                		<li> <i> Sexorcism (2018) </i> </li> <br>
-                		<li> <i> Killection (2020) </i> </li> <br>
-            		</ol></div>
-  				<div class="column"> 
-                	<h2 id="singles" class="crimson-text"> SINGLES </h2>
-                    <ul class="fire-brick-text">
-                    	<li> <i> "Would You Love a Monsterman?" (2002) </i> </li>
-                        <li> <i> "Devil Is a Loser" (2003) </i> </li>
-                        <li> <i> "My Heaven Is Your Hell" (2004) </i> </li>
-                        <li> <i> "Blood Red Sandman" (2004) </i> </li>
-                        <li> <i> "Hard Rock Hallelujah" (2006) </i> </li>
-                        <li> <i> "Who's Your Daddy?" (2006) </i> </li>
-                        <li> <i> "It Snows in Hell" (2006) </i> </li>
-                        <li> <i> "They Only Come Out at Night" (2007) </i> </li>
-                        <li> <i> "Beast Loose in Paradise" (2008) </i> </li>
-                        <li> <i> "Bite It Like a Bulldog" (2008) </i> </li>
-                        <li> <i> "Deadache" (2008) </i> </li>
-                        <li> <i> "This Is Heavy Metal" (2010) </i> </li>
-                        <li> <i> "The Riff" (2013) </i> </li>
-                        <li> <i> "Nailed by the Hammer of Frankenstein" (2014) </i> </li>
-                        <li> <i> "Hug You Hardcore" (2016) </i> </li>
-                        <li> <i> "Your Tongue's Got the Cat" (2018) </i> </li>
-                        <li> <i> "Naked in My Cellar" (2018) </i> </li>
-                        <li> <i> "Shake the Baby Silent" (2019) </i> </li>
-                        <li> <i> "I Dug a Hole in the Yard for You" (2019) </i> </li>
-                        <li> <i> "Like a Bee to the Honey" (2020) </i> </li>
+                			<li> <i> The Monsterican Dream (2004) </i> </li> <br>
+                			<li> <i> The Arockalypse (2006) </i> </li> <br>
+                			<li> <i> Deadache (2008) </i> </li> <br>
+          		      		<li> <i> Babez for Breakfast (2010) </i> </li> <br>
+                			<li> <i> To Beast or Not to Beast (2013) </i> </li> <br>
+                			<li> <i> Scare Force One (2014) </i> </li> <br>
+                			<li> <i> Monstereophonic (2016) </i> </li> <br>
+                			<li> <i> Sexorcism (2018) </i> </li> <br>
+                			<li> <i> Killection (2020) </i> </li> <br>
+            			</ol></div>
+  			<div class="column"> 
+                		<h2 id="singles" class="crimson-text"> SINGLES </h2>
+                    		<ul class="fire-brick-text">
+                   		 	<li> <i> "Would You Love a Monsterman?" (2002) </i> </li>
+                        		<li> <i> "Devil Is a Loser" (2003) </i> </li>
+                        		<li> <i> "My Heaven Is Your Hell" (2004) </i> </li>
+                        		<li> <i> "Blood Red Sandman" (2004) </i> </li>
+                        		<li> <i> "Hard Rock Hallelujah" (2006) </i> </li>
+                        		<li> <i> "Who's Your Daddy?" (2006) </i> </li>
+                        		<li> <i> "It Snows in Hell" (2006) </i> </li>
+                        		<li> <i> "They Only Come Out at Night" (2007) </i> </li>
+                        		<li> <i> "Beast Loose in Paradise" (2008) </i> </li>
+                        		<li> <i> "Bite It Like a Bulldog" (2008) </i> </li>
+                        		<li> <i> "Deadache" (2008) </i> </li>
+                        		<li> <i> "This Is Heavy Metal" (2010) </i> </li>
+                        		<li> <i> "The Riff" (2013) </i> </li>
+                        		<li> <i> "Nailed by the Hammer of Frankenstein" (2014) </i> </li>
+                        		<li> <i> "Hug You Hardcore" (2016) </i> </li>
+                        		<li> <i> "Your Tongue's Got the Cat" (2018) </i> </li>
+                        		<li> <i> "Naked in My Cellar" (2018) </i> </li>
+                        		<li> <i> "Shake the Baby Silent" (2019) </i> </li>
+                        		<li> <i> "I Dug a Hole in the Yard for You" (2019) </i> </li>
+                        		<li> <i> "Like a Bee to the Honey" (2020) </i> </li>
                         
-					</ul>              
-                </div>
-			</div> 
+				</ul>              
+        	        </div>
+		</div> 
             
             
            
            	<br>
-            <br>
-            <br>
+            	<br>
+            	<br>
 
-			<center> <h2 class="blue"> Do you think Lordi are good? </h2> </center>
+		<center> <h2 class="blue"> Do you think Lordi are good? </h2> </center>
             
-            <center> <form id="survey" class="blue">
-            	<label for="yes"> <input id="yes" type="radio" name="all_yes" value="yes"> Yes! </label>
-                <label for="ofc"> <input id="ofc" type="radio" name="all_yes" value="ofc"> Of course. </label>
-                <label for="great"> <input id="great" type="radio" name="all_yes" value="great"> Good? They are great! </label>
-                <label for="amazing"> <input id="amazing" type="radio" name="all_yes" value="amazing"> No, I think they are amazing </label>
-                <button type="submit"> Submit </button>
+	        <center> <form id="survey" class="blue">
+        	    	<label for="yes"> <input id="yes" type="radio" name="all_yes" value="yes"> Yes! </label>
+                	<label for="ofc"> <input id="ofc" type="radio" name="all_yes" value="ofc"> Of course. </label>
+                	<label for="great"> <input id="great" type="radio" name="all_yes" value="great"> Good? They are great! </label>
+                	<label for="amazing"> <input id="amazing" type="radio" name="all_yes" value="amazing"> No, I think they are amazing </label>
+                	<button type="submit"> Submit </button>
                 
-            </form> </center>
+            	</form> </center>
             
-            <br>
-            <br>
-            <br>
+            	<br>
+            	<br>
+            	<br>
             
-            <img src="https://i0.wp.com/metalplanetmusic.com/wp-content/uploads/2019/11/bF8-6UYA.jpeg.jpg?fit=1200%2C1029&ssl=1" alt="This band!" width="800px" class="center">
+            	<img src="https://i0.wp.com/metalplanetmusic.com/wp-content/uploads/2019/11/bF8-6UYA.jpeg.jpg?fit=1200%2C1029&ssl=1" alt="This band!" width="800px" class="center">
            
-           <br>
-           <br>
+           	<br>
+           	<br>
            
-           <center> <h3 class="crimson-text"> My personal favourite song by Lordi </h3> </center>
+           	<center> <h3 class="crimson-text"> My personal favourite song by Lordi </h3> </center>
            
-            <iframe width="700" height="400" class="center" src="https://www.youtube.com/embed/G-DslJ4BdKo">
-			</iframe> 
+            	<iframe width="700" height="400" class="center" src="https://www.youtube.com/embed/G-DslJ4BdKo">
+		</iframe> 
+           
+		            
+            	<br>
+            	<center> <h3 class="crimson-text"> And lastly, one of the most beautiful moments in my life </h3> </center>
             
-            <br>
-            <center> <h3 class="crimson-text"> And lastly, one of the most beautiful moments in my life </h3> </center>
-            
-			<center> <iframe src="https://drive.google.com/file/d/12kWjuccV56PLAcXiDiTHxHgTpSIdIZQb/preview" width="1000" height="600" class="black-border">				
-            </iframe> </center>
-           
-           
-           
-           
+		<center> <iframe src="https://drive.google.com/file/d/12kWjuccV56PLAcXiDiTHxHgTpSIdIZQb/preview" width="1000" height="600" class="black-border">				
+		</iframe> </center>
            
 
 		</main>
